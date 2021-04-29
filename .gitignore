@@ -23,3 +23,4 @@ LICENSE*
 *.png
 *.jpg
 MANIFEST*
+!README.rst
